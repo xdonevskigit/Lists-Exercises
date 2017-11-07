@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ListsExercises\02.ChangeList\bin\Debug\02.ChangeList.exe.config
+C:\Users\Icaka\source\repos\ListsExercises\02.ChangeList\bin\Debug\02.ChangeList.exe
+C:\Users\Icaka\source\repos\ListsExercises\02.ChangeList\bin\Debug\02.ChangeList.pdb
+C:\Users\Icaka\source\repos\ListsExercises\02.ChangeList\obj\Debug\02.ChangeList.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ListsExercises\02.ChangeList\obj\Debug\02.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ListsExercises\02.ChangeList\obj\Debug\02.ChangeList.exe
+C:\Users\Icaka\source\repos\ListsExercises\02.ChangeList\obj\Debug\02.ChangeList.pdb

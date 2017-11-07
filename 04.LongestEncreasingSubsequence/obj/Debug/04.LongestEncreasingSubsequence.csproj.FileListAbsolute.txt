@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ListsExercises\04.LongestEncreasingSubsequence\bin\Debug\04.LongestEncreasingSubsequence.exe.config
+C:\Users\Icaka\source\repos\ListsExercises\04.LongestEncreasingSubsequence\bin\Debug\04.LongestEncreasingSubsequence.exe
+C:\Users\Icaka\source\repos\ListsExercises\04.LongestEncreasingSubsequence\bin\Debug\04.LongestEncreasingSubsequence.pdb
+C:\Users\Icaka\source\repos\ListsExercises\04.LongestEncreasingSubsequence\obj\Debug\04.LongestEncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ListsExercises\04.LongestEncreasingSubsequence\obj\Debug\04.LongestEncreasingSubsequence.exe
+C:\Users\Icaka\source\repos\ListsExercises\04.LongestEncreasingSubsequence\obj\Debug\04.LongestEncreasingSubsequence.pdb
+C:\Users\Icaka\source\repos\ListsExercises\04.LongestEncreasingSubsequence\obj\Debug\04.LongestEncreasingSubsequence.csprojResolveAssemblyReference.cache

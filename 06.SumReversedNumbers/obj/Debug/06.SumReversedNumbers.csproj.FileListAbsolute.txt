@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ListsExercises\06.SumReversedNumbers\bin\Debug\06.SumReversedNumbers.exe.config
+C:\Users\Icaka\source\repos\ListsExercises\06.SumReversedNumbers\bin\Debug\06.SumReversedNumbers.exe
+C:\Users\Icaka\source\repos\ListsExercises\06.SumReversedNumbers\bin\Debug\06.SumReversedNumbers.pdb
+C:\Users\Icaka\source\repos\ListsExercises\06.SumReversedNumbers\obj\Debug\06.SumReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ListsExercises\06.SumReversedNumbers\obj\Debug\06.SumReversedNumbers.exe
+C:\Users\Icaka\source\repos\ListsExercises\06.SumReversedNumbers\obj\Debug\06.SumReversedNumbers.pdb
+C:\Users\Icaka\source\repos\ListsExercises\06.SumReversedNumbers\obj\Debug\06.SumReversedNumbers.csprojResolveAssemblyReference.cache

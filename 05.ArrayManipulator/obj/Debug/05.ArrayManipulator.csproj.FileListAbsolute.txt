@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ListsExercises\05.ArrayManipulator\bin\Debug\05.ArrayManipulator.exe.config
+C:\Users\Icaka\source\repos\ListsExercises\05.ArrayManipulator\bin\Debug\05.ArrayManipulator.exe
+C:\Users\Icaka\source\repos\ListsExercises\05.ArrayManipulator\bin\Debug\05.ArrayManipulator.pdb
+C:\Users\Icaka\source\repos\ListsExercises\05.ArrayManipulator\obj\Debug\05.ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ListsExercises\05.ArrayManipulator\obj\Debug\05.ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ListsExercises\05.ArrayManipulator\obj\Debug\05.ArrayManipulator.exe
+C:\Users\Icaka\source\repos\ListsExercises\05.ArrayManipulator\obj\Debug\05.ArrayManipulator.pdb
